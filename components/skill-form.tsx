@@ -118,7 +118,7 @@ export default function SkillForm() {
             <form className="space-y-6">
               {/* Name */}
               <div>
-                <label className="block text-sm font-medium mb-2">Name (optional)</label>
+                <label className="block text-sm font-medium mb-2">Name </label>
                 <input
                   type="text"
                   placeholder="e.g., Alex"
